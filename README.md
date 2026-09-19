@@ -1,6 +1,6 @@
 # Mike Flynn
 
-Cloud architect who enjoys getting hands-on, from the network design to the deployment code.
+I am a cloud architect and a formally trained software engineer, with a decade of experience in networking and cybersecurity. I enjoy getting hands-on, from the network design to the deployment code.
 
 I build Azure platforms, reusable infrastructure and delivery automation. My work brings together Terraform, Kubernetes, Linux and networking, with a focus on making systems understandable, repeatable and practical to operate. I'm also building several software projects and exploring what AI-assisted engineering makes possible.
 
