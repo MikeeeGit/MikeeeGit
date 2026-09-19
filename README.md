@@ -10,6 +10,7 @@ My public Azure platform examples connect three layers: **infrastructure → clu
 
 | Project | What to explore |
 | --- | --- |
+| [Azure VM foundation](https://github.com/MikeeeGit/azure-vm-foundation) | Private Linux/Windows VMs, Ansible configuration, SQL Always On, WSFC and a tested Terraform-to-Ansible handoff. |
 | [Platform automation toolkit](https://github.com/MikeeeGit/platform-automation-toolkit) | Python release planning with daylight-saving checks, Git branch discovery and credential-free Terraform-to-Ansible inventory. |
 | [Terraform delivery templates](https://github.com/MikeeeGit/terraform-delivery-templates) | Reusable Azure DevOps and GitHub Actions pipelines, OIDC identities, saved plans and matching Bash/PowerShell helpers. |
 | [AKS delivery templates](https://github.com/MikeeeGit/aks-delivery-templates) | Build-once image promotion, independently managed platform services, Kustomize and direct or Argo CD delivery across two cluster slots. |
